@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcd7d1d3-392d-4cad-bdba-73854be2baf1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/kanke/Cache.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CfcjUjLlCJ4FG2CJjBDYEmP5ZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kanke/Dev_Projects/InmemoryCache&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.kanke" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="kanke" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.InMemoryCacheTestTest">
+    <configuration name="All in InmemoryCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InmemoryCache" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InMemoryCacheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InmemoryCache" />
+      <option name="PACKAGE_NAME" value="org.kanke" />
+      <option name="MAIN_CLASS_NAME" value="org.kanke.InMemoryCacheTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InMemoryCacheTest.shouldAddObjectsToTheCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InmemoryCache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kanke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.kanke" />
+      <option name="MAIN_CLASS_NAME" value="org.kanke.InMemoryCacheTest" />
+      <option name="METHOD_NAME" value="shouldAddObjectsToTheCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InMemoryCacheTest.shouldClearObjectsFromTheCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InmemoryCache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kanke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.kanke" />
+      <option name="MAIN_CLASS_NAME" value="org.kanke.InMemoryCacheTest" />
+      <option name="METHOD_NAME" value="shouldClearObjectsFromTheCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InMemoryCacheTest.shouldGetObjectsFromTheCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InmemoryCache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kanke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.kanke" />
+      <option name="MAIN_CLASS_NAME" value="org.kanke.InMemoryCacheTest" />
+      <option name="METHOD_NAME" value="shouldGetObjectsFromTheCache" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InMemoryCacheTestTest" />
+        <item itemvalue="JUnit.InMemoryCacheTest.shouldClearObjectsFromTheCache" />
+        <item itemvalue="JUnit.InMemoryCacheTest.shouldGetObjectsFromTheCache" />
+        <item itemvalue="JUnit.InMemoryCacheTest.shouldAddObjectsToTheCache" />
+        <item itemvalue="JUnit.All in InmemoryCache" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd7d1d3-392d-4cad-bdba-73854be2baf1" name="Changes" comment="" />
+      <created>1659197219578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659197219578</updated>
+      <workItem from="1659197221738" duration="9211000" />
+      <workItem from="1659267707819" duration="3281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
