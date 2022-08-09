@@ -38,3 +38,23 @@ The requirements are:
 
 ## Future Implementation ##
 TBC
+
+## Feedback ##
+Positive
+The code is readable.
+Maven build compiles without alteration and all tests pass.
+Test coverage is good. See below.
+Threading issues are addressed successfully (though coarsely).
+Generics are used (but not completely – leading to warnings)
+ 
+
+Negative
+Candidate has not really implemented what was asked for. They have used a non-thread safe apache commons LRU cache (which is perfectly fine), but all they have really done is wrap it in their own class with synchronized blocks.
+There is a method to set a value on the cache, whereas we ask for a cache that knows how to get the value for a given key, and does so by itself when a new key is requested.
+We hope that the candidate does this in a thread safe way so that concurrent requests for the same key only result in a single call to the underlying data source. The candidate has bypassed all this and left it up to the calling code.
+A large proportion of the code is to do with timing out cache entries. This is not a requirement in the question.
+ 
+>> Line Coverage: 51/54 (94%)
+>> Generated 21 mutations Killed 13 (62%)
+>> Mutations with no coverage 1. Test strength 65%
+>> Ran 79 tests (3.76 tests per mutation)
